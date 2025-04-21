@@ -29,3 +29,7 @@ This document contains quickstart templates and additional resources to easily b
 | C# (.NET) | [remote-mcp-functions-dotnet](https://github.com/Azure-Samples/remote-mcp-functions-dotnet) |
 | Python | [remote-mcp-functions-python](https://github.com/Azure-Samples/remote-mcp-functions-python) |
 | TypeScript (Node.js) | [remote-mcp-functions-typescript](https://github.com/Azure-Samples/remote-mcp-functions-typescript) |
+
+
+## Notice
+When you can running on local environment, MCP Server requires Azure Functions Core Tools version 4.0.7030 or higher. (Function Host version >= 4.1037)
