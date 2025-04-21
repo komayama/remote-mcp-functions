@@ -32,4 +32,4 @@ This document contains quickstart templates and additional resources to easily b
 
 
 ## Notice
-When you can running on local environment, MCP Server requires Azure Functions Core Tools version 4.0.7030 or higher. (Function Host version >= 4.1037)
+When you can running on local environment, MCP Server requires [Azure Functions Core Tools](https://learn.microsoft.com/azure/azure-functions/functions-run-local?pivots=programming-language-python#install-the-azure-functions-core-tools) version 4.0.7030 or higher. (Function Host version >= 4.1037)
